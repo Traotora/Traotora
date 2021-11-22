@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - :bulb: [Medium articles](https://medium.com/@traotora)
   - :office: [LinkedIn](https://www.linkedin.com/in/traotora/)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=traotora&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/traotora/github-readme-stats)
+[![Trao's github stats](https://github-readme-stats.vercel.app/api?username=traotora&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/traotora/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traotora)](https://github.com/traotora/github-readme-stats)
 -->
